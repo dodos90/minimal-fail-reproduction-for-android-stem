@@ -2,6 +2,7 @@ buildscript {
     repositories {
         google()
         gradlePluginPortal()
+        mavenCentral() // mavenCentral() added here as well...
     }
 
     dependencies {}
